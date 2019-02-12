@@ -105,5 +105,7 @@ public class CaseStudy1 {
 		
 		}
 		driver.close();
+
+// comments added
 	}
 }
